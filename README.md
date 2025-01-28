@@ -1,7 +1,7 @@
 # Geospatial Data Management and Analytics 🚖🌍
 
-**Authors:** Michalis Kovaios & Vasileios Karampelas  
-**Emails:** [mixalis.koveos@gmail.com](mailto:mixalis.koveos@gmail.com) | [vkarampelas@outlook.com](mailto:vkarampelas@outlook.com)  
+**Authors:** Michalis Kovaios 
+**Emails:** [mixalis.koveos@gmail.com](mailto:mixalis.koveos@gmail.com) 
 **University:** University of Piraeus  
 
 ---
